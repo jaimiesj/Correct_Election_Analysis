@@ -23,7 +23,6 @@ The purpose of this project was provide the election commission county and candi
       * *Which candidate won the election?*
         * Diana DeGette won the election with 272,892 votes, which was 73.8% of total votes
 
-
      <img width="293" alt="Deliverable 2 VS and Terminal" src="https://user-images.githubusercontent.com/88955412/132252432-fb6dc6e7-c1d2-4118-a1d5-7c476cd3aeb5.png">
 
 ## Election-Audit Summary
